@@ -1,10 +1,9 @@
 ![cover](img_cover_tetris.png)
-20190328 test typescript Tetris
 
 In this repository, you will find the source of the game Tetris, developed in some different programming languages such as Actionscript and TypeScript, following the micro architecture Robotlegs.
 
 ### Status
-
+20190328 test typescript Tetris
 + **[ActionScript](https://ronaldosetzer.github.io/portfolio/open_source/tetris_as/):** Done.
 + **Haxe/OpenFl:** in Progress.
 + **[TypeScript](https://ronaldosetzer.github.io/portfolio/open_source/tetris_ts/):** Done.
