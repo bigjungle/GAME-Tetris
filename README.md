@@ -1,4 +1,5 @@
 ![cover](img_cover_tetris.png)
+20190328 test typescript Tetris
 
 In this repository, you will find the source of the game Tetris, developed in some different programming languages such as Actionscript and TypeScript, following the micro architecture Robotlegs.
 
